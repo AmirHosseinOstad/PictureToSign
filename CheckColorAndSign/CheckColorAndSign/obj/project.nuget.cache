@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "x6c3kE56wgk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Amir Hossein\\source\\repos\\CheckColorAndSign\\CheckColorAndSign\\CheckColorAndSign.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amir Hossein\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Amir Hossein\\.nuget\\packages\\system.drawing.common\\8.0.13\\system.drawing.common.8.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
